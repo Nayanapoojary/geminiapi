@@ -1,4 +1,4 @@
-# geminiapi
+#Gemini API 
 #  AJIET Help Desk Chatbot
 
 A virtual assistant chatbot designed for A.J. Institute of Engineering and Technology (AJIET) using Google's Gemini-2.5 Flash model, Gradio interface, and real-time Google Search grounding for enhanced information accuracy.
