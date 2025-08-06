@@ -1,16 +1,17 @@
-#Gemini API 
+# Gemini API 
 #  AJIET Help Desk Chatbot
 
 A virtual assistant chatbot designed for A.J. Institute of Engineering and Technology (AJIET) using Google's Gemini-2.5 Flash model, Gradio interface, and real-time Google Search grounding for enhanced information accuracy.
 
+---
 
 ##  Overview
 
 This project aims to build a smart virtual assistant called **Ajiet Bot**, which helps students, parents, faculty, and visitors by providing accurate information about the institution. It uses:
 
-- 🌐 Google Gemini 2.5 Flash model via `google.genai`
-- 💬 Gradio for user interaction
-- 🔎 Google Search Tool integration for real-time information grounding
+-  Google Gemini 2.5 Flash model via `google.genai`
+-  Gradio for user interaction
+-  Google Search Tool integration for real-time information grounding
 
 ---
 
